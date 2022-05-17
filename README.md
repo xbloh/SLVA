@@ -1,5 +1,5 @@
 # Strategic Leadership and Visual Analytics
-This file contains 2 Jupyter notebooks (Python) for the processing and analysis of data for the group project. Source data intermediary output datafiles have also been included for grading purposes. The notebooks have also been shared in HTML for ease of viewing.
+This file contains 2 Jupyter notebooks (Python) for the processing and analysis of data for the group project. Source data intermediary output datafiles have also been included for grading purposes. The notebooks have also been shared in HTML for ease of viewing. Please download the files before reviewing.
 
 Presented by Group 5 <br>
 University of St. Gallen – Spring Semester 2022<br>
