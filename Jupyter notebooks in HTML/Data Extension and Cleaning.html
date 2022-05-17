@@ -3,7 +3,7 @@
 <head><meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>[For Submission] Data Extension and Cleaning </title><script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script>
+<title>Data Extension and Cleaning </title><script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script>
 
 
 
@@ -18245,7 +18245,7 @@ This was done with three attempts with three different APIs. The one we eventual
 <div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[27]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="n">geocode_api_key</span> <span class="o">=</span> <span class="s2">&quot;262d28b3b8f8a6ecbd663b61f8183df262812ee&quot;</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">geocode_api_key</span> <span class="o">=</span> 
 </pre></div>
 
      </div>
@@ -18411,7 +18411,7 @@ This was done with three attempts with three different APIs. The one we eventual
 <span class="kn">import</span> <span class="nn">urllib3</span>
 
 <span class="n">address</span><span class="o">=</span><span class="s2">&quot;University of Queensland Business School&quot;</span>
-<span class="n">key</span><span class="o">=</span><span class="s2">&quot;AIzaSyB5X8Xh8UbCGYpTgOaGtfQ9ke5c5SnPfVU&quot;</span>
+<span class="n">key</span><span class="o">=</span><span class="s2">&quot;&quot;</span>
 <span class="n">url</span><span class="o">=</span><span class="s2">&quot;https://maps.googleapis.com/maps/api/geocode/json?address=</span><span class="si">%s</span><span class="s2">&amp;key=</span><span class="si">%s</span><span class="s2">&quot;</span> <span class="o">%</span> <span class="p">(</span><span class="n">address</span><span class="o">.</span><span class="n">replace</span><span class="p">(</span><span class="s1">&#39; &#39;</span><span class="p">,</span><span class="s1">&#39;+&#39;</span><span class="p">),</span> <span class="n">key</span><span class="p">)</span>
 
 <span class="n">response</span> <span class="o">=</span> <span class="n">urllib3</span><span class="o">.</span><span class="n">urlopen</span><span class="p">(</span><span class="n">url</span><span class="p">)</span>
@@ -18552,7 +18552,7 @@ Successfully installed googlemaps-4.6.0
 <div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[287]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="n">API</span><span class="o">=</span><span class="s2">&quot;AIzaSyBHQBk45DdQRmpUhRzl3OtYEw8hneFvb58&quot;</span> <span class="c1">#from candy9810</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">API</span><span class="o">=</span><span class="s2">&quot;&quot;</span> <span class="c1">#created own api key</span>
 <span class="n">geolocator</span> <span class="o">=</span> <span class="n">GoogleV3</span><span class="p">(</span><span class="n">api_key</span><span class="o">=</span><span class="n">API</span><span class="p">)</span>
 
 <span class="nb">print</span><span class="p">(</span><span class="nb">type</span><span class="p">(</span><span class="n">geolocator</span><span class="p">))</span>
