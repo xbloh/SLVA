@@ -1,11 +1,11 @@
 # Strategic Leadership and Visual Analytics
 This file contains 2 Jupyter notebooks (Python) for the processing and analysis of data for the group project. Source data intermediary output datafiles have also been included for grading purposes. 
 
-Presented by Group 5 
-University of St. Gallen – Spring Semester 2022
-Strategic Leadership with Visual Analytics 
-Prof. Dr. Georg Guttmann 
-May 17, 2020
+Presented by Group 5 <br>
+University of St. Gallen – Spring Semester 2022<br>
+Strategic Leadership with Visual Analytics <br>
+Prof. Dr. Georg Guttmann <br>
+May 17, 2020<br>
 
 ## Team Members:
 1) Roosa-Maria Kvist
